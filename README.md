@@ -1,2 +1,2 @@
-# MEDI_SCAN
-AI-Powered Medical Image Analysis for Ocular Disease Diagnosis.
+# MEDI-SCAN
+##AI-Powered Medical Image Analysis for Ocular Disease Diagnosis.
